@@ -27,6 +27,8 @@
       }
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/graduation-cap-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 13,
     "versionPublish": "4.7.2"
